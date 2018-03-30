@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#468CEC</color>
+    <color name="red_dot">#F76260</color>
+    <color name="grey_text">#666666</color>
+    <color name="grey_text_dark">#333333</color>
+    <color name="grey_text_btn">#222222</color>
+    <color name="grey_whatever">#999999</color>
+    <color name="top_line">#E5E5E5</color>
+    <color name="grey_background">#F4F4F4</color>
+    <color name="camera_color">#ffffff</color>
+    <color name="grey_back_icon">#cccccc</color>
+    <color name="alarm_color_2">#FF9966</color>
+    <color name="alarm_color_3">#F7C060</color>
+    <color name="station_test_color_2">#51CBC6</color>
+    <color name="station_test_color_3">#CCCCCC</color>
+</resources>

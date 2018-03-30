@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="report_title">
+        <item>1、title1</item>
+        <item>2、title2</item>
+        <item>3、title3</item>
+        <item>4、title4</item>
+        <item>5、title5</item>
+        <item>6、title6</item>
+        <item>7、title7</item>
+        <item>8、title8</item>
+
+    </string-array>
+
+    <string-array name="report_content_1">
+        <item>1.1 content</item>
+        <item>1.2 content</item>
+        <item>1.3 content</item>
+        <item>1.4 content</item>
+    </string-array>
+
+    <string-array name="report_content_2">
+        <item>content</item>
+    </string-array>
+    <string-array name="report_content_3">
+        <item>3.1 content</item>
+        <item>3.2 content</item>
+        <item>3.3 content</item>
+        <item>3.4 content</item>
+    </string-array>
+    <string-array name="report_content_4">
+        <item>content</item>
+    </string-array>
+    <string-array name="report_content_5">
+        <item>5.1 content</item>
+        <item>5.2 content</item>
+    </string-array>
+    <string-array name="report_content_6">
+        <item>content</item>
+    </string-array>
+    <string-array name="report_content_7">
+        <item>7.1 content</item>
+        <item>7.2 content</item>
+        <item>7.3 content</item>
+        <item>7.4 content</item>
+        <item>7.5 content</item>
+    </string-array>
+    <string-array name="report_content_8">
+        <item>content</item>
+    </string-array>
+
+    <string-array name="report_content_list">
+        <item>@array/report_content_1</item>
+        <item>@array/report_content_2</item>
+        <item>@array/report_content_3</item>
+        <item>@array/report_content_4</item>
+        <item>@array/report_content_5</item>
+        <item>@array/report_content_6</item>
+        <item>@array/report_content_7</item>
+        <item>@array/report_content_8</item>
+    </string-array>
+
+</resources>

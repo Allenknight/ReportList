@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_bar_height">48dp</dimen>
+    <dimen name="bottom_bar_height">55dp</dimen>
+    <dimen name="line">0.1dp</dimen>
+    <dimen name="edit_height">40dp</dimen>
+    <dimen name="align_bottom">10dp</dimen>
+    <dimen name="decoration_height">25dp</dimen>
+</resources>
