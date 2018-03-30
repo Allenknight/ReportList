@@ -38,6 +38,7 @@ public class MainActivity extends Activity {
         ButterKnife.bind(this);
         initView();
         initData();
+
     }
 
     public void initView(){
